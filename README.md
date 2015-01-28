@@ -1,16 +1,16 @@
-#FAQ (Ok we made them up no one asked us these!)
+#FAQ
 
 ##Where are our projects?
 
-###The are all at https://github.com/ilovecode1
+The are all at https://github.com/ilovecode1
 
 ##What are your projects for?
 
-###Personal or Buisness projects
+Personal or Buisness projects
 
 ##How often will you update them?
 
-###Whenever we can
+Whenever we can
 
 #Help Us!
 
