@@ -16,4 +16,8 @@ Whenever we can
 
 We need help updating our projects clone them or just edit them!
 
+#Need Help?
+
+Get it at https://github.com/ilovecode1/help
+
 #THANKS! :)
